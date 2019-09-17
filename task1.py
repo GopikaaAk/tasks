@@ -8,7 +8,7 @@ for i in a:
     if max < len(i):
       max=len(i)
       index=a.index(i)
-print("number of sublist in the list:",count)
-print("sublist with maximum length is:",a[index])
-print("index of sublist with maximum length is:",index)
-print("first element of the sublist with maximum length is:",a[index][0])
+print("number of sublist in the list :",count)
+print("sublist with maximum length is :",a[index])
+print("index of sublist with maximum length is :",index)
+print("first element of the sublist with maximum length is :",a[index][0])
